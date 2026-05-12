@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0f172a,100:1e293b&amp;height=170&amp;section=header&amp;text=Mohamed%20Berkaoui&amp;fontColor=ffffff&amp;fontSize=42&amp;animation=fadeIn&amp;fontAlignY=35&amp;desc=Full-Stack%20Architect%20%26%20Educator&amp;descAlignY=55&amp;descSize=16" alt="Header banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:1e293b&height=170&section=header&text=Mohamed%20Berkaoui&fontColor=ffffff&fontSize=42&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Architect%20and%20Educator&descAlignY=55&descSize=16" alt="Header banner" />
   <h1>Building scalable platforms and teaching modern engineering</h1>
   <p>JavaScript and TypeScript specialist. .NET and FastAPI backend architect. Linux-first educator.</p>
   <p>
@@ -11,7 +11,7 @@
     <a href="#labs">Labs</a> ·
     <a href="#contact">Contact</a>
   </p>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;size=18&amp;duration=2400&amp;pause=700&amp;color=38BDF8&amp;center=true&amp;vCenter=true&amp;width=760&amp;lines=Scalable+full-stack+systems;Modern+frontend+engineering;FastAPI%2C+.NET%2C+Node+services;RAG+pipelines+with+LangChain" alt="Typing banner" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2400&pause=700&color=38BDF8&center=true&vCenter=true&width=760&lines=Scalable+full-stack+systems;Modern+frontend+engineering;FastAPI%2C+.NET%2C+Node+services;RAG+pipelines+with+LangChain" alt="Typing banner" />
 </div>
 
 ---
@@ -251,8 +251,8 @@ I am a senior full-stack software developer and programming instructor with deep
 ## 📊 GitHub stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mohamed-Berkaoui&amp;show_icons=true&amp;hide_title=true&amp;bg_color=0f172a&amp;title_color=38bdf8&amp;icon_color=38bdf8&amp;text_color=94a3b8&amp;border_color=1e293b" alt="GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohamed-Berkaoui&amp;layout=compact&amp;bg_color=0f172a&amp;title_color=38bdf8&amp;icon_color=38bdf8&amp;text_color=94a3b8&amp;border_color=1e293b" alt="Top languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Mohamed-Berkaoui&show_icons=true&hide_title=true&bg_color=0f172a&title_color=38bdf8&icon_color=38bdf8&text_color=94a3b8&border_color=1e293b" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohamed-Berkaoui&layout=compact&bg_color=0f172a&title_color=38bdf8&icon_color=38bdf8&text_color=94a3b8&border_color=1e293b" alt="Top languages" />
 </div>
 
 ---
