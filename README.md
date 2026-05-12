@@ -211,7 +211,7 @@ I am a senior full-stack software developer and programming instructor with deep
     </tr>
     <tr>
       <td><b>Backend</b></td>
-      <td>APIs, MVC, authentication, system design, database design, FastAPI, .NET</td>
+      <td>APIs, MVC, authentication, system design, database design</td>
     </tr>
     <tr>
       <td><b>Projects</b></td>
@@ -222,38 +222,12 @@ I am a senior full-stack software developer and programming instructor with deep
 
 ---
 
-## 🧪 Labs
-
-<details open>
-  <summary><b>Active builds</b></summary>
-  <br />
-  <ul>
-    <li>AI medical recommendation platform</li>
-    <li>AI email automation agent for ops workflows</li>
-    <li>LangChain-powered RAG knowledge bases</li>
-    <li>Full-stack dashboards with secure auth and role control</li>
-    <li>FastAPI services for high-throughput data workflows</li>
-  </ul>
-</details>
-
-<details>
-  <summary><b>Learning pipeline</b></summary>
-  <br />
-  <ul>
-    <li>Advanced ASP.NET backend engineering</li>
-    <li>FastAPI and Python API architecture</li>
-    <li>Linux-first environment migration</li>
-    <li>Production-grade observability and scaling</li>
-  </ul>
-</details>
-
----
 
 ## 📊 GitHub stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mohamed-Berkaoui&show_icons=true&hide_title=true&bg_color=0f172a&title_color=38bdf8&icon_color=38bdf8&text_color=94a3b8&border_color=1e293b" alt="GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohamed-Berkaoui&layout=compact&bg_color=0f172a&title_color=38bdf8&icon_color=38bdf8&text_color=94a3b8&border_color=1e293b" alt="Top languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Mohamed-Berkaoui&amp;show_icons=true&amp;hide_title=true&amp;bg_color=0f172a&amp;title_color=38bdf8&amp;icon_color=38bdf8&amp;text_color=94a3b8&amp;border_color=1e293b" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohamed-Berkaoui&amp;layout=compact&amp;bg_color=0f172a&amp;title_color=38bdf8&amp;icon_color=38bdf8&amp;text_color=94a3b8&amp;border_color=1e293b" alt="Top languages" />
 </div>
 
 ---
