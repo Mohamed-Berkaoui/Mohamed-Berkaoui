@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:1e293b&height=170&section=header&text=Mohamed%20Berkaoui&fontColor=ffffff&fontSize=42&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Architect%20and%20Educator&descAlignY=55&descSize=16" alt="Header banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:0284c7&height=180&section=header&text=Mohamed%20Berkaoui&fontColor=ffffff&fontSize=48&animation=twinkling&fontAlignY=38&desc=Full-Stack%20Architect%20and%20Educator&descSize=18&descAlignY=62" alt="Header banner" />
   <h1>Building scalable platforms and teaching modern engineering</h1>
   <p>JavaScript and TypeScript specialist. .NET and FastAPI backend architect. Linux-first educator.</p>
   <p>
