@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:0284c7&height=180&section=header&text=Mohamed%20Berkaoui&fontColor=ffffff&fontSize=48&animation=twinkling&fontAlignY=38&desc=Full-Stack%20Architect%20and%20Educator&descSize=18&descAlignY=62" alt="Header banner" />
+  <img src="https://capsule-render.vercel.app/api?type=soft&amp;color=timeGradient&amp;height=220&amp;section=header&amp;text=Mohamed%20Berkaoui&amp;fontColor=ffffff&amp;fontSize=50&amp;animation=scaleIn&amp;fontAlignY=40&amp;desc=Full-Stack%20Architect%20and%20Educator&amp;descSize=20&amp;descAlignY=60" alt="Header banner" />
   <h1>Building scalable platforms and teaching modern engineering</h1>
   <p>JavaScript and TypeScript specialist. .NET and FastAPI backend architect. Linux-first educator.</p>
   <p>
@@ -81,6 +81,7 @@ I am a senior full-stack software developer and programming instructor with deep
 <div align="center">
   <img src="https://img.shields.io/badge/TypeScript-0f172a?style=for-the-badge&logo=typescript&logoColor=38bdf8" alt="TypeScript" />
   <img src="https://img.shields.io/badge/React-0f172a?style=for-the-badge&logo=react&logoColor=38bdf8" alt="React" />
+  <img src="https://img.shields.io/badge/React_Native-0f172a?style=for-the-badge&logo=react&logoColor=38bdf8" alt="React Native" />
   <img src="https://img.shields.io/badge/Angular-0f172a?style=for-the-badge&logo=angular&logoColor=dd0031" alt="Angular" />
   <img src="https://img.shields.io/badge/Next.js-0f172a?style=for-the-badge&logo=nextdotjs&logoColor=ffffff" alt="Next.js" />
   <img src="https://img.shields.io/badge/Node.js-0f172a?style=for-the-badge&logo=nodedotjs&logoColor=22c55e" alt="Node.js" />
@@ -108,7 +109,7 @@ I am a senior full-stack software developer and programming instructor with deep
     <tr>
       <td><b>Frontend</b></td>
       <td>
-        Angular, React, Next.js, Component architecture, state management, routing, animations, responsive design, Flexbox, Grid, Bootstrap, modern CSS
+        Angular, React, React Native, Next.js, Component architecture, state management, routing, animations, responsive design, Flexbox, Grid, Bootstrap, modern CSS
       </td>
     </tr>
     <tr>
