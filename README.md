@@ -17,7 +17,7 @@
 
 ## ⚡ About Me
 
-I am a Senior Full-Stack Software Developer, Backend Architect, and Programming Instructor. I build high-performance platforms, design scalable architectures, and specialize in teaching modern engineering concepts.
+I am a Senior Full-Stack Software Developer, Backend Architect, UI/UX Designer, and Programming Instructor. I build high-performance platforms, design scalable architectures, create stunning user experiences, and specialize in teaching modern engineering concepts.
 
 - 🚀 **Currently Building:** AI-integrated systems (RAG pipelines, LangChain), medical recommendation platforms, and Ops automation agents.
 - 🧠 **Tech Focus:** Expanding into enterprise **.NET / C#** architecture, building high-throughput **FastAPI** services, and transitioning to a fully **Linux-first** environment.
@@ -58,6 +58,11 @@ I am a Senior Full-Stack Software Developer, Backend Architect, and Programming 
 ![LangChain](https://img.shields.io/badge/LangChain-121212?style=for-the-badge&logo=chainlink&logoColor=white)
 ![RAG Pipelines](https://img.shields.io/badge/RAG_Pipelines-000000?style=for-the-badge&logo=openai&logoColor=white)
 
+### Design & Creative Tools
+
+![Photoshop](https://img.shields.io/badge/Adobe_Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)
+![Illustrator](https://img.shields.io/badge/Adobe_Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white)
+
 ---
 
 ## 🌟 Highlight Projects & Labs
@@ -71,6 +76,6 @@ I am a Senior Full-Stack Software Developer, Backend Architect, and Programming 
 ## 📈 GitHub Activity
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mohamed-Berkaoui&show_icons=true&hide_title=true&bg_color=0A0A0A&title_color=38BDF8&icon_color=38BDF8&text_color=A3A3A3&border_color=1E293B" alt="GitHub Stats" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohamed-Berkaoui&layout=compact&bg_color=0A0A0A&title_color=38BDF8&icon_color=38BDF8&text_color=A3A3A3&border_color=1E293B" alt="Top Languages" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Mohamed-Berkaoui&show_icons=true&hide_title=true&bg_color=0A0A0A&title_color=38BDF8&icon_color=38BDF8&text_color=A3A3A3&border_color=1E293B&cache_seconds=3600" alt="GitHub Stats" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohamed-Berkaoui&layout=compact&bg_color=0A0A0A&title_color=38BDF8&icon_color=38BDF8&text_color=A3A3A3&border_color=1E293B&cache_seconds=3600" alt="Top Languages" height="160" />
 </div>
