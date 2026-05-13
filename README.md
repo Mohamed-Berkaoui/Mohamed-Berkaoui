@@ -1,9 +1,9 @@
 ﻿<div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3b82f6,100:0f172a&height=250&section=header&text=Mohamed%20Berkaoui&fontColor=ffffff&fontSize=65&animation=fadeIn&fontAlignY=35&desc=Senior%20Full-Stack%20Architect%20%7C%20Educator&descSize=22&descAlignY=55&descColor=bae6fd" alt="Header Header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=206&color=gradient&text=Mohamed%20Berkaoui&descAlign=73&descAlignY=54&desc=Software%20Developer%20|%20Architect%20|%20Educator&descSize=18&rotate=0&stroke=000000&strokeWidth=3&textBg=false&section=header&reversal=true&fontAlign=50&animation=fadeIn&fontAlignY=38&fontSize=79" alt="Header Header" />
 
 <div style="margin-top: 10px;">
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&duration=2000&pause=500&color=38BDF8&center=true&vCenter=true&width=600&lines=Scalable+Full-Stack+Platforms;FastAPI,+Node.js,+.NET+Microservices;Modern+Frontend+Engineering;AI+%26+RAG+Integration;Programming+Instructor)](https://github.com/Mohamed-Berkaoui)
+  <a href="https://github.com/Mohamed-Berkaoui"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&duration=2000&pause=500&color=38BDF8&center=true&vCenter=true&width=600&lines=Scalable+Full-Stack+Platforms;Node.js,+FastApi,+.NET+Microservices;Modern+Frontend+Engineering;AI+%26+RAG+Integration;Programming+Instructor" alt="Typing SVG"></a>
 </div>
 
 <p align="center" style="margin-top: 15px;">
